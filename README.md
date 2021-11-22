@@ -73,6 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 A Predictable State Container for JS Apps. React Redux is the official React UI bindings layer for Redux.
 
+Install React Redux & Redux DevTools:
+
+```bash
+$ yarn add redux react-redux redux-devtools
+```
+
 src/reducers/counter.js ->
 
 ```js
